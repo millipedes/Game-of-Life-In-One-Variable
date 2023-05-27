@@ -4,7 +4,7 @@
   This is a challenge project to write Conway's Game of Life only using one
   variable. The rules are:
 
-  1) Only one variable can be used to respresent any data structure.
+  1) Only one variable can be used to respresent all data structures.
   2) Iterators do no count (i.e. `i` in `for` loops).
   3) The input is a file that specifies:
     - The Width of the Canvas
